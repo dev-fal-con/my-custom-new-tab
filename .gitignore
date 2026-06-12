@@ -1,0 +1,36 @@
+# Operating System files
+
+.DS_Store
+Thumbs.db
+
+# Log files
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Environment files
+
+.env
+.env.local
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# Node.js dependencies (for future use)
+
+node_modules/
+
+# Build folders
+
+dist/
+build/
+
+# Cache folders
+
+.cache/

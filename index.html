@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>My Dashboard</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<div class="dashboard">
+
+    <div class="top">
+
+        <div class="card clock">
+            <h2>Welcome</h2>
+            <div id="time"></div>
+            <div id="date"></div>
+        </div>
+
+        <div class="card search-section">
+
+            <h2>Search</h2>
+
+            <select id="engine">
+                <option value="google">Google</option>
+                <option value="duckduckgo">DuckDuckGo</option>
+                <option value="youtube">YouTube</option>
+            </select>
+
+            <div class="search-box">
+                <input
+                    type="text"
+                    id="searchInput"
+                    placeholder="Search anything..."
+                >
+                <button id="searchBtn">
+                    Search
+                </button>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Quick Links</h2>
+
+        <div class="links">
+
+            <a class="link" href="https://www.google.com">
+                Google
+            </a>
+
+            <a class="link" href="https://www.youtube.com">
+                YouTube
+            </a>
+
+            <a class="link" href="https://chatgpt.com">
+                ChatGPT
+            </a>
+
+            <a class="link" href="https://github.com">
+                GitHub
+            </a>
+
+            <a class="link" href="https://reddit.com">
+                Reddit
+            </a>
+
+            <a class="link" href="https://mail.google.com">
+                Gmail
+            </a>
+
+        </div>
+
+    </div>
+
+    <div class="card notes">
+
+        <h2>Notes</h2>
+
+        <textarea
+            id="notes"
+            placeholder="Write something..."
+        ></textarea>
+
+    </div>
+
+    <div class="card quote">
+        <div id="quote"></div>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
