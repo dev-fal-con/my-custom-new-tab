@@ -1,5 +1,9 @@
 # My Custom New Tab v1.0.0
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Manifest](https://img.shields.io/badge/Manifest-V3-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A modern and customizable Chrome New Tab dashboard built with HTML, CSS, and JavaScript.
 
 ## Features
