@@ -1,4 +1,4 @@
-# My Custom New Tab
+# My Custom New Tab v1.0.0
 
 A modern and customizable Chrome New Tab dashboard built with HTML, CSS, and JavaScript.
 
