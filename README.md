@@ -1,6 +1,6 @@
-# My Custom New Tab v1.0.0
+# My Custom New Tab v1.0
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Manifest](https://img.shields.io/badge/Manifest-V3-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
@@ -89,4 +89,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Developer Falcon
+[Developer Falcon](https://github.com/dev-fal-con)
